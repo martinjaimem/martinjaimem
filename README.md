@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**martinjaimem/martinjaimem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Martin, a Software Engineer that loves [Ruby On Rails](https://rubyonrails.org/).
 
-Here are some ideas to get you started:
+ - 🔭 I'm currently working at AirOps
+ - 💬 Ask me about anything, some interesting topics I would love to chat about are:
+   - Backend Architecture
+   - Ruby On Rails
+   - Performance
+   - Anything you can think about, I just have fun talking about Engineering stuff 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+
+Let's grab a coffee ☕, you can find me at martinmoron@gmail.com (yes, what a funny last name I have 😆)
