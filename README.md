@@ -11,4 +11,4 @@ I'm Martin, a Software Engineer that loves [Ruby On Rails](https://rubyonrails.o
 
 -----
 
-Let's grab a coffee ☕, you can find me at martinmoron@gmail.com (yes, what a funny last name I have 😆)
+Let's grab a coffee ☕, you can find me at martinmoron7@gmail.com (yes, what a funny last name I have 😆)
